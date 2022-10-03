@@ -46,3 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {
+    font-family: sans-serif;
+}
+
+@font-face {
+    font-family: "Norse Bold";
+    src: url(./Norse-Bold\ \(1\).otf);
+}
