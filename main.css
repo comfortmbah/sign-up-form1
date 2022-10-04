@@ -53,5 +53,24 @@ body {
 
 @font-face {
     font-family: "Norse Bold";
-    src: url(./Norse-Bold\ \(1\).otf);
+    src: url(./Norse-Bold.otf);
+}
+
+.content {
+    min-height: 100vh;
+    display: flex;
+}
+
+/* image-section */
+
+.img-section {
+	background-image: url("./images/leaf-image.jpg");
+	background-position: center center;
+	background-size: cover;
+	display: flex;
+	flex: 3;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+	color: #fff;
 }
