@@ -74,3 +74,13 @@ body {
 	text-align: center;
 	color: #fff;
 }
+
+a {
+	color: #fff;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
